@@ -6,8 +6,15 @@ export default {
   },
 
   title: {
-    fontSize: 35,
+    fontSize: 10,
     marginBottom: 20,
+    padding: 10,
+  },
+
+  text: {
+    marginHorizontal: 10,
+    marginVertical: 50,
+    justifyContent: "center",
   },
    
   button: {
