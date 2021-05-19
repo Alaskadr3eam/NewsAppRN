@@ -19,6 +19,8 @@ Axios, moment, @react-navigation
 # Installation
 
 npm start
+
 cd/ios => pod/install
+
 npm run ios
 
