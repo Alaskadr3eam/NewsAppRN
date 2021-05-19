@@ -2,9 +2,7 @@ import React from 'react'
 import style from '../Style'
 import {Text, Image, ActivityIndicator, View, FlatList, TouchableOpacity, Divider, StyleSheet, Dimensions} from 'react-native'
 import axios from 'axios'
-import { createStackNavigator, StackNavigator } from '@react-navigation/stack'
 import moment from 'moment'
-import DetailResult from './DetailResult'
 
 const apiKey = 'edf76b7a835048afb18d643bc0a466d1';
 const { width, height } = Dimensions.get('window')
